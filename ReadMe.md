@@ -81,12 +81,19 @@ ________________________________________________________________________________
 - Sushma Kambam: Documented the process and prepared the Word document.
 _____________________________________________________________________________________
 
-### Screenshots
+## Screenshots
 
-![4 Replicas of images](https://github.com/user-attachments/assets/3cfc044d-d7e1-413c-b7bb-09ddcc06f94d)
+### Screenshot of the applica9on running locally.
+![Replicas of image](https://github.com/user-attachments/assets/6e92bbc1-99a2-4dfd-8a99-cf41964ebbf9)
 
+
+### Configure Security Groups in Azure Virtual Machine
 ![Azure Virtual Machine Overview](https://github.com/user-attachments/assets/31ee5610-e221-463d-96f8-fbbed0c61ea9)
 
+### Screenshot of the Docker Hub repository page
 ![Dockerhub Container image](https://github.com/user-attachments/assets/b2aebb1d-e706-4373-a386-99f115cdc60a)
 
-![Replicas of image](https://github.com/user-attachments/assets/6e92bbc1-99a2-4dfd-8a99-cf41964ebbf9)
+
+### Running multiple containers under one public IP Address in different browsers
+![4 Replicas of images](https://github.com/user-attachments/assets/3cfc044d-d7e1-413c-b7bb-09ddcc06f94d)
+
