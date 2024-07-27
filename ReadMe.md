@@ -79,3 +79,14 @@ ________________________________________________________________________________
 - Yamini Kunapareddy: Managed security group configuration, performed service testing, and created the PowerPoint presentation.
 - Sai Meghana Sangawar: Worked on the Go application’s idea and development, worked on main.go.
 - Sushma Kambam: Documented the process and prepared the Word document.
+_____________________________________________________________________________________
+
+### Screenshots
+
+![4 Replicas of images](https://github.com/user-attachments/assets/3cfc044d-d7e1-413c-b7bb-09ddcc06f94d)
+
+![Azure Virtual Machine Overview](https://github.com/user-attachments/assets/31ee5610-e221-463d-96f8-fbbed0c61ea9)
+
+![Dockerhub Container image](https://github.com/user-attachments/assets/b2aebb1d-e706-4373-a386-99f115cdc60a)
+
+![Replicas of image](https://github.com/user-attachments/assets/6e92bbc1-99a2-4dfd-8a99-cf41964ebbf9)
