@@ -83,7 +83,7 @@ ________________________________________________________________________________
 
 ## Screenshots
 
-### Screenshot of the applica9on running locally.
+### Screenshot of the application running locally.
 ![Replicas of image](https://github.com/user-attachments/assets/6e92bbc1-99a2-4dfd-8a99-cf41964ebbf9)
 
 
