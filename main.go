@@ -8,13 +8,14 @@ import (
 	"time"
 )
 
+// UserDetails represents the details of a user.
 type UserDetails struct {
 	Name        string
 	Email       string
 	PhoneNumber string
 }
 
-// List of students
+// students is a list of students with their names and IDs.
 var students = []struct {
 	Name string
 	ID   string
@@ -27,17 +28,21 @@ var students = []struct {
 	{"Sushma Kambam", "500233832"},
 }
 
+// emailDomains is a list of email domains.
 var emailDomains = []string{"example.com", "test.com", "demo.com"}
 
+// generateUniqueEmail generates a unique email for a given name.
 func generateUniqueEmail(name string) string {
 	domain := emailDomains[rand.Intn(len(emailDomains))]
 	return fmt.Sprintf("%s@%s", name, domain)
 }
 
+// generateUniquePhoneNumber generates a unique phone number.
 func generateUniquePhoneNumber() string {
 	return fmt.Sprintf("+1(555)%03d-%04d", rand.Intn(1000), rand.Intn(10000))
 }
 
+// generateUserDetails generates user details for a given name.
 func generateUserDetails(name string) UserDetails {
 	return UserDetails{
 		Name:        name,
@@ -46,6 +51,7 @@ func generateUserDetails(name string) UserDetails {
 	}
 }
 
+// handler is the HTTP request handler.
 func handler(w http.ResponseWriter, r *http.Request) {
 	// Seed random number generator
 	rand.Seed(time.Now().UnixNano())
